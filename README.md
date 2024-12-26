@@ -7,3 +7,5 @@
 3. https://github.com/AI-Study-Han/Zero-Qwen-VL
 4. https://github.com/Coobiw/MPP-LLaVA
 5. https://github.com/qnguyen3/nanoLLaVA
+6. https://github.com/TinyLLaVA/TinyLLaVA_Factory
+7. https://github.com/ZhangXJ199/TinyLLaVA-Video
