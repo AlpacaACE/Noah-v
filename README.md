@@ -9,3 +9,4 @@
 5. https://github.com/qnguyen3/nanoLLaVA
 6. https://github.com/TinyLLaVA/TinyLLaVA_Factory
 7. https://github.com/ZhangXJ199/TinyLLaVA-Video
+8. https://github.com/Emericen/tiny-qwen
